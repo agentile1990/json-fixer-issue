@@ -1,0 +1,14 @@
+{
+  "name": "json-fixer-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Andrew Gentile <agentile1990@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-fixer": "^1.6.5"
+  }
+}
